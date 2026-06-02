@@ -1,16 +1,22 @@
-## Hi there 👋
+# Lucas Dreyer
 
-<!--
-**LUCASDREYER/LUCASDREYER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology and AI student based in São Paulo, Brazil. I build practical web and automation projects with a focus on real-world use cases.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across web development, automation, databases, and applied AI — turning ideas into tools people can actually use. Currently sharpening my skills in AI, data, and software development while growing my portfolio and open-source presence.
+
+## Tech Stack
+
+**Languages:** Python · JavaScript · C · SQL
+**Web:** HTML · CSS · GitHub Pages
+**Data & AI:** Pandas · LLM APIs · automation workflows
+**Tools:** Git · GitHub · Airtable · Tally · Make.com · VS Code
+
+## Featured Projects
+
+**Terms of Service Reader** — AI-powered tool that translates Terms of Service and privacy policies into plain English.
+
+**NGO Management System** — Database and form system for managing beneficiaries, events, and registrations, built with Airtable and Tally.
+
+**Digital Solutions Website** — Clean site for presenting digital services to businesses looking to grow online.
